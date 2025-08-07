@@ -10,6 +10,7 @@ Below are the descriptions of files and directories in the repository.
 * `./src`: directory containing source codes for model architecture, model training and inferencing.
 * `./train_command.sh`: example command to run training model.
 * `./inference_command.sh`: example command to run inferencing model.
+  
 For obtaining training and validating dataset (containing messages' text and their corresponding "estimated" construct scores, e.g. Big Five scores, depression, life-satisfaction scores) for research purpose. Please contact Huy Vu (hvu@cs.stonybrook.edu).
 
 
