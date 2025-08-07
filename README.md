@@ -7,10 +7,11 @@ This project was done in collaboration between PhD students, postdocs, and profe
 
 ## Codebase overview
 Below are the descriptions of files and directories in the repository.
-* `./data`: training and validating files containing messages' text and their corresponding "estimated" construct scores (e.g. Big Five scores, depression, life-satisfaction scores)
 * `./src`: directory containing source codes for model architecture, model training and inferencing.
 * `./train_command.sh`: example command to run training model.
 * `./inference_command.sh`: example command to run inferencing model.
+For obtaining training and validating dataset (containing messages' text and their corresponding "estimated" construct scores, e.g. Big Five scores, depression, life-satisfaction scores) for research purpose. Please contact Huy Vu (hvu@cs.stonybrook.edu).
+
 
 ## Installations requirements
 Python: 3.10.0+.
